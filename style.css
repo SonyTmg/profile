@@ -65,6 +65,8 @@ a:hover {
 }
 
 @media (max-width: 540px) {
+  body: 100%;
+
   .card-white {
     width: 100%;
     padding: 24px 0;
