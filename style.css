@@ -70,6 +70,7 @@ a:hover {
 @media (max-width: 540px) {
   body {
     width: 100%;
+    padding: 12px;
   }
 
   .card-white {
