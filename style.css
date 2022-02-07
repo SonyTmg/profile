@@ -71,7 +71,7 @@ a:hover {
 
   .card-white {
     width: 100%;
-    padding: 24px 0;
+    padding: 24px 16px;
   }
   .card-white > p {
     font-size: 21px;
